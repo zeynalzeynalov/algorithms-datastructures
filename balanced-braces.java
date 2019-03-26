@@ -5,8 +5,8 @@ class Solution{
 	{
 		Scanner sc = new Scanner(System.in);
 		
-        String openingBrace = "[{(";
-        String closingBrace = "]})";
+        	String openingBrace = "[{(";
+        	String closingBrace = "]})";
         
 		while (sc.hasNext()) {
 			
