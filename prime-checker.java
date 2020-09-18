@@ -3,13 +3,11 @@ class Prime
 {
     void checkPrime(int ... a)
     {
-        for(int i : a)
-        {
+        for(int i : a) {
             int count = 0;
             
-            for(int k=1; k<=i; k++)
-            {
-                if(i%k==0)
+            for(int k=1; k<=i; k++) {
+                if( i % k == 0 )
                     count++;
             }
             
