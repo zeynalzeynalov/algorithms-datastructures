@@ -6,7 +6,7 @@ import org.junit.Test;
 public class BalancedBracesSolutionTest {
 
     @Test
-    public void whenShortBalancedReturnTrue() {
+    public void whenShortBalancedReturnsTrue() {
         String input = "()";
         boolean actual = BalancedBracesSolution.isBalanced(input);
 
@@ -14,7 +14,7 @@ public class BalancedBracesSolutionTest {
     }
 
     @Test
-    public void whenLongBalancedReturnTrue() {
+    public void whenLongBalancedReturnsTrue() {
         String input = "(){}[](())[{{[]}}]";
         boolean actual = BalancedBracesSolution.isBalanced(input);
 
@@ -22,7 +22,7 @@ public class BalancedBracesSolutionTest {
     }
 
     @Test
-    public void whenShortUnBalancedReturnFalse() {
+    public void whenShortUnbalancedReturnsFalse() {
         String input = "(]";
         boolean actual = BalancedBracesSolution.isBalanced(input);
 
@@ -30,7 +30,7 @@ public class BalancedBracesSolutionTest {
     }
 
     @Test
-    public void whenLongUnBalancedReturnFalse() {
+    public void whenLongUnbalancedReturnsFalse() {
         String input = "(){}[](())[{{[]}}][";
         boolean actual = BalancedBracesSolution.isBalanced(input);
 
