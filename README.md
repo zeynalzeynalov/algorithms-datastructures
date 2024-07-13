@@ -1,4 +1,4 @@
-Some solutions to the hackerrank.com and leetcode.com coding challenges.
+Solutions to some of the hackerrank.com and leetcode.com coding challenges.
 
 # balanced-brackets
 
