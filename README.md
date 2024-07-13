@@ -1,10 +1,10 @@
 Solutions to some of the hackerrank.com and leetcode.com coding challenges.
 
-# Balanced brackets solution:
+# Balanced braces solution:
 
-Implementation for checking if entered input string is consisting of balanced brackets.
+Implementation for checking if entered input string is consisting of balanced braces.
 
-**Balanced brackets:**
+**Balanced braces:**
 
 []{}()[]
 
@@ -12,7 +12,7 @@ Implementation for checking if entered input string is consisting of balanced br
 
 {(())}({(){}[]})[]
 
-**Unbalanced brackets:**
+**Unbalanced braces:**
 
 (]
 
