@@ -6,6 +6,10 @@ Implementation for checking if entered input string is consisting of balanced br
 
 **Balanced braces:**
 
+()
+
+[]
+
 []{}()[]
 
 [()][({})]{}()
