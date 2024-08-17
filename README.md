@@ -18,6 +18,8 @@ Implementation for checking if entered input string is consisting of balanced br
 
 **Unbalanced braces:**
 
+(
+
 (]
 
 ((())
@@ -30,7 +32,7 @@ Leetcode: https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/descripti
 
 Given a binary tree root, return the maximum sum of all keys of any sub-tree which is also a Binary Search Tree (BST).
 
-Assume a BST is defined as follows:
+**Assume a BST is defined as follows:**
 
 The left subtree of a node contains only nodes with keys less than the node's key.
 The right subtree of a node contains only nodes with keys greater than the node's key.
