@@ -36,4 +36,4 @@ Given a binary tree root, return the maximum sum of all keys of any sub-tree whi
 
 The left subtree of a node contains only nodes with keys less than the node's key.
 The right subtree of a node contains only nodes with keys greater than the node's key.
-Both the left and right subtrees must also be MST(`binary search trees`).
+Both the left and right subtrees must also be BST(`binary search trees`).
