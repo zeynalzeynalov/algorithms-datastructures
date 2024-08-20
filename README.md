@@ -4,7 +4,7 @@ Solutions to some of the hackerrank.com and leetcode.com coding challenges.
 
 Implementation for checking if entered input string is consisting of balanced braces.
 
-**Balanced braces:**
+**Balanced braces examples:**
 
 ()
 
