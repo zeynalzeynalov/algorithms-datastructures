@@ -30,7 +30,7 @@ Implementation for checking if entered input string is consisting of balanced br
 
 Leetcode: https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/
 
-Given a binary tree root, return the maximum sum of all keys of any sub-tree which is also a Binary Search Tree (BST).
+Given a binary tree root, return the maximum sum of all keys of any sub-tree which is also a BST(`binary search trees`).
 
 **Assume a BST is defined as follows:**
 
