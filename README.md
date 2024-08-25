@@ -2,7 +2,7 @@ Solutions to some of the hackerrank.com and leetcode.com coding challenges.
 
 # Balanced braces problem solution:
 
-Implementation for checking if entered input string is consisting of balanced braces.
+Implementation of checking if entered input string is consisting of a balanced braces.
 
 **Balanced braces examples:**
 
