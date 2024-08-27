@@ -2,7 +2,7 @@ package com.zeynal.app;
 
 /*
 
- Leetcode: https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/
+ Leetcode coding task: https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/
 
  Given a binary tree root, return the maximum sum of all keys of any sub-tree which is also a Binary Search Tree (BST).
 
