@@ -10,7 +10,7 @@ public class BalancedBracesSolutionTest {
         String input = "()";
         boolean actual = BalancedBracesSolution.isBalanced(input);
 
-        Assert.assertEquals(true, actual);
+        Assert.assertTrue(actual);
     }
 
     @Test
@@ -18,7 +18,7 @@ public class BalancedBracesSolutionTest {
         String input = "(){}[](())[{{[]}}]";
         boolean actual = BalancedBracesSolution.isBalanced(input);
 
-        Assert.assertEquals(true, actual);
+        Assert.assertTrue(actual);
     }
 
     @Test
@@ -26,7 +26,7 @@ public class BalancedBracesSolutionTest {
         String input = "(]";
         boolean actual = BalancedBracesSolution.isBalanced(input);
 
-        Assert.assertEquals(false, actual);
+        Assert.assertFalse(actual);
     }
 
     @Test
@@ -34,6 +34,6 @@ public class BalancedBracesSolutionTest {
         String input = "(){}[](())[{{[]}}][";
         boolean actual = BalancedBracesSolution.isBalanced(input);
 
-        Assert.assertEquals(false, actual);
+        Assert.assertFalse(actual);
     }
 }

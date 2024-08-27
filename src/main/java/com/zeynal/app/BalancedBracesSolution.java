@@ -11,6 +11,7 @@ class BalancedBracesSolution {
 
         Stack<Character> stack = new Stack<Character>();
         boolean isBalanced = true;
+
         for (int i = 0; i < input.length(); i++) {
             Character c = input.charAt(i);
 
