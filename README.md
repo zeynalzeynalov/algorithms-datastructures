@@ -1,6 +1,6 @@
 Solutions to some of the hackerrank.com and leetcode.com coding challenges.
 
-## 1) Balanced braces problem solution:
+### 1) Balanced braces problem solution:
 
 Implementation of checking if entered input string is consisting of a balanced braces.
 
@@ -26,7 +26,7 @@ Implementation of checking if entered input string is consisting of a balanced b
 
 []{}(]
 
-## 2) Maximum sum BST in a binary tree problem solution:
+### 2) Maximum sum BST in a binary tree problem solution:
 
 Leetcode: https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/
 
