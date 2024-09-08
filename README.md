@@ -18,7 +18,7 @@ Implementation of checking if entered input string is consisting of a balanced b
 
 **Unbalanced braces:**
 
-(
+(}
 
 (]
 
