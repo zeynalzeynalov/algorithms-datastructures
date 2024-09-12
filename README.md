@@ -28,7 +28,7 @@ Implementation of checking if entered input string is consisting of a balanced b
 
 []{}(]
 
-### 2) Maximum sum BST in a binary tree problem solution:
+### 2) Maximum sum BST(`binary search trees`) in a binary tree problem solution:
 
 Leetcode: https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/
 
