@@ -34,7 +34,7 @@ Leetcode: https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/descripti
 
 Given a binary tree root, return the maximum sum of all keys of any sub-tree which is also a BST(`binary search trees`).
 
-**Assume a BST is defined as follows:**
+**Assume a BST is defined as:**
 
 The left subtree of a node contains only nodes with the keys less than the node's key.
 The right subtree of a node contains only nodes with the keys greater than the node's key.
